@@ -1,2 +1,2 @@
 # Hello!
-This is my github profile, this repository also is the source code for my [website](https://scrapsavage.dev/)https://scrapsavage.dev/).
+This is my github profile, this repository also is the source code for my [website](https://scrapsavage.dev/).
